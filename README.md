@@ -38,11 +38,3 @@ The model can help optimize logistics, improve customer satisfaction, and reduce
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repository-name.git
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Open the notebook:
-   jupyter notebook Prediction-for-E-Commerce-Product-Delivery.ipynb
